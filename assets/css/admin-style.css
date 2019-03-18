@@ -1,0 +1,48 @@
+span.dashicons.dashicons-yes.pay_now {
+    background: #000;
+    color: #fff;
+    padding: 4px 6px;
+    cursor: pointer;
+}
+div#wp_pagination {
+    text-align: center;
+    margin: 10px auto;
+}
+div#wp_pagination a {
+    background: #fff;
+    margin: 0px 2px;
+}
+td.disableRow {
+    cursor: not-allowed;
+}
+td.disableRow input, td.disableRow span {
+    pointer-events: none;
+}
+
+.form-widget label {
+    display: block;
+    padding: 15px 0;
+}
+
+.form-widget .form-control {
+    width: 100%;
+    padding: 20px 10px;
+}
+
+.mb15 { margin-bottom:15px; }
+
+.form-widget input[type="submit"] {
+    padding: 10px 50px;
+    background: #23282d;
+    color: white;
+    outline: none;
+    border: none;
+} 
+
+.success-div {
+    padding: 5px 15px;
+    background: #2e9c2e;
+    color: white;
+    margin: 20px 0 0 0;
+    border-radius: 5px;
+}
